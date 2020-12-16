@@ -1,0 +1,17 @@
+{
+    "name": "tomac/hero",
+    "description": "Emag Hero application",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Claudiu",
+            "email": "toma.claudiu.89@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hero\\": "src/"
+        }
+    }
+}
