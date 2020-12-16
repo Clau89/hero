@@ -22,7 +22,7 @@ class App
         $secondPlayer = (new PlayerDirector())->build(new BeastBuilder(new Beast()));
 
         $firstPlayer->setName('Orderus');
-        $secondPlayer->setName('the vicious beast');
+        $secondPlayer->setName('the vicious Refund beast');
 
         $battle = new Battle();
 
